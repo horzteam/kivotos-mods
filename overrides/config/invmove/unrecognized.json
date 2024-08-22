@@ -1,0 +1,11 @@
+{
+  "allowMovement": {
+    "net.minecraft.client.gui.screen.IngameMenuScreen": true,
+    "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": true,
+    "com.elfmcys.yesstevemodel.OOooooo00oO0O0oo0OoO00Oo": true,
+    "mtr.screen.LiftSelectionScreen": true
+  },
+  "hideBackground": {
+    "mtr.screen.LiftSelectionScreen": true
+  }
+}
